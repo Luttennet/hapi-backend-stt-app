@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sasappspeech",
+  "private_key_id": "b29970848eaa6cd3b78dac33aa53e215413fdab4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDyeQ04QyXe85Z\nv8rPe8zEIOTxhSH8e/By/zNhQj8rjx6dcTgDQne3unOkgjLDfVHj0qJ7uz0aKv4z\n0dgmixPwWM9A32zhmUv2PCdu59YMsCCrh0zJjUwy/kK32U/RvTDROLRrmLx+SSSt\nEoebJ7cK0a9PTMUWRLG5U/bllCt+rkBKNiBuLIEI/hv/1R2oHGBifmJbcEf98PQS\njeZY38T7RjHaAU0+jNz1/MKM3gfx6541by2skcihrX8UKz1pwyYaFRne106R19qo\nnXMbCjZSVZjYXS39a77b6K2SUQ1PGCbzzEW2i7T8y4yk2dmzeBdDnR0Z9WwxR2PQ\nncxbQtc1AgMBAAECggEAA6gJUkB9W6CKXRbjGtFbz1zdkbIet/L47a4yP4fScLCP\n+I4/pstEEO295k2v1Nf0t828TusTVsyvPyNVMfu+b/+57SL5takx0o593l5yMFNO\nD44BDdw3lwCJw++zw9MQmT5XG5GjEYkG/ZF0mrNDl0ONDoInRcVw0T54xFb/ofJm\n74q2XdqXqwH5ORcUlbBFkSg/B1bfvCQsIqr7cwhdQ3bd39W96y98K1xDllEecdFD\nkNpwRVcSfQH5HqfNyxxeZtIV81YPKW2kKKkZEmxOoOrG+UvLIMrnLm01IogtbMJr\nXtG4l7Q/VIr6u1IG1bCswrgKn8tZ6dnURfBLL2wQ2QKBgQDmbKEQWJQrwrFpmnB2\n+tQJSE+9OfAzZM1HameYqqyXAF2PQQYY5YVxG3AFUibj+L6estRKX5h2xfr6X5Tm\nHRWOlRbGSQifiDsqNKnj37wz85iDLA0Zy5ilVfZDEIhMdZgYXEwPsJD8naolCERY\ndU76BAtNqrEvylnV8m918e4qbQKBgQDZhRwLoDFMLCRQkD5I/BAkvksfTMhrHpIk\ngbVdar+bRQNNcV9gSZsWRJwxhn6Tl+fOdDlbO65RXvBROVpfrxdJfxHcjVEUsbMW\nJfvgoIxY0A5H3+upMF8SNAerEkBnjK6n9s72ZpPAc2ylg5HUVyLm40PKNHqgp3lj\nvCSV4fLi6QKBgA3uH0aXtE149bTGq2nl/A+bmYZ9DDJvM6HPovetycVPNljEu5Oh\nvJF78SfBMayyiwOZGBBu+w6jJWshgCTxOS5ngPr3y1epqroAeQzXp88UOPIlJZ2b\nm1zTd5HSXAsTSOCgI9EHAZzkAzc96rPWU7H1sKE/YnrbJtcyUt60g4t5AoGAEiYE\n/QNUmaJlNUOTrss5HZey9N2XKzjVwK4Bz9WEPxQ2/lMjPglmIyl+TrOGBBJ8iMEx\nt+b22FsveddrLuiQ7NTpTJmN1kgtRP/OUCOVEiPpzR1lsCwVApPMv/052mnmeKUj\nB3Pvh/MZcYXUuP68Lr9vfIN8Z8MRYbzk4IyFk2ECgYEAiEMBTwZX2POxZfTlDEYp\nlCXHga0pBsSUGgcNPSOMgTqUwU7XXRlRWtYg0D3UFRBZEYoOI/t6PNV86letLFvp\n9D4zjOXlumyTIgSHyueBgjaL1M5DmAyMY+1XGUOnPOCljXi03fGNmdallo9dC5fd\npN9XoAWS18NUECaJO08YQ10=\n-----END PRIVATE KEY-----\n",
+  "client_email": "specchtotextsas@sasappspeech.iam.gserviceaccount.com",
+  "client_id": "114446333979262023673",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/specchtotextsas%40sasappspeech.iam.gserviceaccount.com"
+}
